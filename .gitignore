@@ -1,0 +1,9 @@
+bin
+.vscode/
+.DS_Store
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
