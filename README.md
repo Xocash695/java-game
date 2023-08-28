@@ -1,1 +1,2 @@
-Main.java contains the selector to select which game you would like to play the games are in their own seprate files. 
+#Java Game Tictactoe 
+A tictactoe game created in Java, run the main file and select 1 to start the game. 
